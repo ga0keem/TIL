@@ -1,4 +1,8 @@
 env/
 data/
+images/
+__pycache__/
+saved_models/
 .DS_Store
 Crawling/example.html
+
